@@ -1,0 +1,31 @@
+
+[
+  { 
+    "name": "Andi Wijaya", 
+    "role": "Software Engineer di Gojek", 
+    "text": "KarirKita membantu saya mendapatkan pekerjaan impian di unicorn Indonesia hanya dalam 2 minggu! Prosesnya sangat transparan dan cepat.", 
+    "avatar": "https://placehold.co/150x150/2563eb/ffffff?text=AW",
+    "rating": 5
+  },
+  { 
+    "name": "Bunga Citra", 
+    "role": "HR Manager di Tokopedia", 
+    "text": "Sebagai rekruter, saya sangat terbantu dengan fitur filter skill di KarirKita. Kualitas kandidat yang kami dapatkan sangat sesuai ekspektasi.", 
+    "avatar": "https://placehold.co/150x150/e11d48/ffffff?text=BC",
+    "rating": 5
+  },
+  { 
+    "name": "Dedi Mahendra", 
+    "role": "Freelance Designer", 
+    "text": "Fitur personal branding-nya luar biasa. Portofolio saya jadi terlihat lebih profesional dan klien lebih mudah menghubungi saya.", 
+    "avatar": "https://placehold.co/150x150/d97706/ffffff?text=DM",
+    "rating": 4
+  },
+  { 
+    "name": "Siti Rahma", 
+    "role": "Product Manager", 
+    "text": "Platform yang sangat user friendly dan informatif. Saya bisa melihat budaya perusahaan sebelum melamar.", 
+    "avatar": "https://placehold.co/150x150/059669/ffffff?text=SR",
+    "rating": 5
+  }
+]

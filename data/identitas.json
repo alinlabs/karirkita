@@ -1,0 +1,24 @@
+{
+  "nama": "KarirKita",
+  "tagline": "Wujudkan Karir Impian di Kota Istimewa",
+  "deskripsi": "Platform pencarian kerja nomor #1 yang berfokus pada pengembangan karir talenta lokal di Kabupaten Purwakarta dan Kawasan Industri Jawa Barat.",
+  "domain": "karirkita.my.id",
+  "logoUrl": "https://imgur.com/aRVShha.png",
+  "kontak": {
+    "email": "hrd@karirkita.my.id",
+    "telepon": "+62 812-9988-PWK",
+    "alamat": "Jl. Veteran No. 152, Ciseureuh, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41118"
+  },
+  "sosialMedia": {
+    "linkedin": "https://linkedin.com/company/karirkita-pwk",
+    "instagram": "https://instagram.com/karirkita.pwk",
+    "twitter": "https://twitter.com/karirkita_id",
+    "facebook": "https://facebook.com/karirkita.purwakarta"
+  },
+  "brandAmbassador": {
+    "companies": "https://placehold.co/600x800/1e293b/ffffff?text=Kawasan+Industri",
+    "jobs": "https://placehold.co/600x800/2563eb/ffffff?text=Loker+PWK",
+    "talents": "https://placehold.co/600x800/7c3aed/ffffff?text=Talenta+Lokal"
+  },
+  "copyright": "KarirKita Purwakarta"
+}

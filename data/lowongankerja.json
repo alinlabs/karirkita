@@ -1,0 +1,131 @@
+
+[
+  {
+    "id": "j1",
+    "slug": "operator-produksi-otomotif",
+    "title": "Operator Produksi",
+    "companyId": "c1",
+    "company": {
+      "id": "c1",
+      "name": "PT. Autoparts Indonesia",
+      "slug": "autoparts-indonesia",
+      "logo": "https://placehold.co/200x200/2563eb/ffffff?text=Autoparts",
+      "coverImage": "https://placehold.co/800x400/1e3a8a/ffffff?text=Factory+Line",
+      "description": "Manufaktur suku cadang otomotif terkemuka di Kawasan BIC.",
+      "location": "Kawasan BIC, Purwakarta",
+      "website": "https://autoparts.co.id",
+      "industry": "Manufaktur",
+      "size": "500-1000 Employees"
+    },
+    "coverImage": "https://placehold.co/800x400/1e40af/ffffff?text=Production+Line",
+    "location": "BIC, Purwakarta",
+    "type": "Contract",
+    "level": "Junior",
+    "salaryRange": "UMK Purwakarta",
+    "postedAt": "20 Mei 2024",
+    "description": "Mencari operator produksi untuk line assembling komponen otomotif.",
+    "requirements": [
+      "Pendidikan min. SMA/SMK Sederajat",
+      "Usia maksimal 24 tahun",
+      "Bersedia bekerja shift",
+      "Sehat jasmani dan rohani"
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "j2",
+    "slug": "staff-administrasi-gudang",
+    "title": "Staff Administrasi Gudang",
+    "companyId": "c2",
+    "company": {
+      "id": "c2",
+      "name": "PT. Logistik Jaya",
+      "slug": "logistik-jaya",
+      "logo": "https://placehold.co/200x200/e11d48/ffffff?text=Logistik",
+      "coverImage": "https://placehold.co/800x400/881337/ffffff?text=Warehouse",
+      "description": "Perusahaan logistik dan distribusi area Jawa Barat.",
+      "location": "Sadang, Purwakarta",
+      "website": "https://logistikjaya.com",
+      "industry": "Logistik",
+      "size": "50-100 Employees"
+    },
+    "coverImage": "https://placehold.co/800x400/be123c/ffffff?text=Admin+Office",
+    "location": "Sadang, Purwakarta",
+    "type": "Full Time",
+    "level": "Middle",
+    "salaryRange": "IDR 4.500.000 - 5.500.000",
+    "postedAt": "22 Mei 2024",
+    "description": "Bertanggung jawab atas pencatatan keluar masuk barang dan stok opname.",
+    "requirements": [
+      "Menguasai Microsoft Excel (VLOOKUP, Pivot)",
+      "Teliti dan rapi",
+      "Pengalaman admin gudang min 1 tahun",
+      "Domisili Purwakarta diutamakan"
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "j3",
+    "slug": "marketing-executive-property",
+    "title": "Marketing Executive",
+    "companyId": "c3",
+    "company": {
+      "id": "c3",
+      "name": "Bukit Indah Property",
+      "slug": "bukit-indah-property",
+      "logo": "https://placehold.co/200x200/059669/ffffff?text=Property",
+      "coverImage": "https://placehold.co/800x400/064e3b/ffffff?text=Housing",
+      "description": "Developer perumahan terpercaya di Purwakarta.",
+      "location": "Pusat Kota Purwakarta",
+      "website": "https://bukitindah.prop",
+      "industry": "Real Estate",
+      "size": "20-50 Employees"
+    },
+    "coverImage": "https://placehold.co/800x400/047857/ffffff?text=Marketing+Team",
+    "location": "Kota Purwakarta",
+    "type": "Full Time",
+    "level": "Junior",
+    "salaryRange": "Gaji Pokok + Komisi",
+    "postedAt": "25 Mei 2024",
+    "description": "Memasarkan unit perumahan subsidi dan komersil di area Purwakarta.",
+    "requirements": [
+      "Memiliki kendaraan sendiri (SIM C)",
+      "Komunikatif dan berpenampilan menarik",
+      "Suka tantangan dan target",
+      "Fresh graduate dipersilahkan melamar"
+    ],
+    "isPromoted": false
+  },
+  {
+    "id": "j4",
+    "slug": "hrd-ga-manager",
+    "title": "HRD & GA Manager",
+    "companyId": "c4",
+    "company": {
+      "id": "c4",
+      "name": "PT. Tekstil Sejahtera",
+      "slug": "tekstil-sejahtera",
+      "logo": "https://placehold.co/200x200/7c3aed/ffffff?text=Tekstil",
+      "coverImage": "https://placehold.co/800x400/4c1d95/ffffff?text=Factory",
+      "description": "Pabrik garmen orientasi ekspor.",
+      "location": "Jatiluhur, Purwakarta",
+      "website": "https://tekstilsejahtera.co.id",
+      "industry": "Manufaktur Garmen",
+      "size": "1000+ Employees"
+    },
+    "coverImage": "https://placehold.co/800x400/5b21b6/ffffff?text=HR+Office",
+    "location": "Jatiluhur, Purwakarta",
+    "type": "Full Time",
+    "level": "Lead",
+    "salaryRange": "IDR 10.000.000 - 15.000.000",
+    "postedAt": "28 Mei 2024",
+    "description": "Memimpin departemen HRD dan General Affair pabrik.",
+    "requirements": [
+      "Pengalaman min 5 tahun di HR Manufaktur",
+      "Paham UU Ketenagakerjaan",
+      "Kuat dalam hubungan industrial",
+      "Leadership yang baik"
+    ],
+    "isPromoted": true
+  }
+]

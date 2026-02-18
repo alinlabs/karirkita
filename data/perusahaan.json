@@ -1,0 +1,81 @@
+
+[
+  {
+    "id": "c1",
+    "nama": "TechNova Indonesia",
+    "slug": "technova-indonesia",
+    "logo": "https://placehold.co/200x200/2563eb/ffffff?text=TechNova",
+    "coverImage": "https://placehold.co/800x400/1e3a8a/ffffff?text=TechNova+Office",
+    "deskripsi": "Perusahaan teknologi terdepan yang fokus pada pengembangan solusi AI dan Cloud Computing. Kami berkomitmen untuk menciptakan inovasi yang memudahkan kehidupan manusia melalui teknologi mutakhir.",
+    "lokasi": "Jakarta Selatan",
+    "website": "https://technova.id",
+    "industri": "Teknologi",
+    "ukuran": "50-100 Karyawan",
+    "isPromoted": true
+  },
+  {
+    "id": "c2",
+    "nama": "Creative Studio",
+    "slug": "creative-studio",
+    "logo": "https://placehold.co/200x200/e11d48/ffffff?text=Creative",
+    "coverImage": "https://placehold.co/800x400/881337/ffffff?text=Creative+Studio+Space",
+    "deskripsi": "Agensi digital kreatif yang membantu brand bertumbuh melalui desain dan strategi konten. Kami menggabungkan seni dan data untuk memberikan dampak nyata bagi klien.",
+    "lokasi": "Bandung",
+    "website": "https://creativestudio.id",
+    "industri": "Agensi Kreatif",
+    "ukuran": "10-50 Karyawan",
+    "isPromoted": true
+  },
+  {
+    "id": "c3",
+    "nama": "Fintech Solusi",
+    "slug": "fintech-solusi",
+    "logo": "https://placehold.co/200x200/059669/ffffff?text=Fintech",
+    "coverImage": "https://placehold.co/800x400/064e3b/ffffff?text=Fintech+HQ",
+    "deskripsi": "Platform keuangan digital yang memudahkan transaksi dan investasi bagi milenial. Misi kami adalah mendemokratisasi akses keuangan bagi seluruh lapisan masyarakat.",
+    "lokasi": "Jakarta Pusat",
+    "website": "https://fintechsolusi.com",
+    "industri": "Keuangan (Fintech)",
+    "ukuran": "100-500 Karyawan",
+    "isPromoted": true
+  },
+  {
+    "id": "c4",
+    "nama": "E-Health Indonesia",
+    "slug": "e-health-indonesia",
+    "logo": "https://placehold.co/200x200/7c3aed/ffffff?text=Health",
+    "coverImage": "https://placehold.co/800x400/4c1d95/ffffff?text=E-Health+Center",
+    "deskripsi": "Start-up kesehatan yang menghubungkan dokter dan pasien melalui aplikasi mobile. Kami menyediakan layanan telemedisin terpercaya dan terjangkau.",
+    "lokasi": "Surabaya",
+    "website": "https://ehealth.id",
+    "industri": "Kesehatan (Healthtech)",
+    "ukuran": "50-100 Karyawan",
+    "isPromoted": true
+  },
+  {
+    "id": "c5",
+    "nama": "EduTech Pintar",
+    "slug": "edutech-pintar",
+    "logo": "https://placehold.co/200x200/f59e0b/ffffff?text=EduTech",
+    "coverImage": "https://placehold.co/800x400/b45309/ffffff?text=Learning+Hub",
+    "deskripsi": "Platform pembelajaran online nomor 1 untuk persiapan karir digital. Kami mencetak talenta digital berkualitas.",
+    "lokasi": "Yogyakarta",
+    "website": "https://edutech.id",
+    "industri": "Pendidikan",
+    "ukuran": "50-100 Karyawan",
+    "isPromoted": true
+  },
+  {
+    "id": "c6",
+    "nama": "Logistik Cepat",
+    "slug": "logistik-cepat",
+    "logo": "https://placehold.co/200x200/ea580c/ffffff?text=Logistik",
+    "coverImage": "https://placehold.co/800x400/7c2d12/ffffff?text=Logistics+Warehouse",
+    "deskripsi": "Solusi pengiriman logistik berbasis teknologi untuk e-commerce di Asia Tenggara.",
+    "lokasi": "Jakarta Utara",
+    "website": "https://logistikcepat.com",
+    "industri": "Logistik",
+    "ukuran": "200-500 Karyawan",
+    "isPromoted": true
+  }
+]

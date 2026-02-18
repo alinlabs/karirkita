@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nama": "GOJEK",
+    "logo": "https://placehold.co/200x80/00aa13/ffffff?text=GOJEK"
+  },
+  {
+    "id": 2,
+    "nama": "TOKOPEDIA",
+    "logo": "https://placehold.co/200x80/42b549/ffffff?text=TOKOPEDIA"
+  },
+  {
+    "id": 3,
+    "nama": "TRAVELOKA",
+    "logo": "https://placehold.co/200x80/1ba0e2/ffffff?text=TRAVELOKA"
+  },
+  {
+    "id": 4,
+    "nama": "BUKALAPAK",
+    "logo": "https://placehold.co/200x80/e31e52/ffffff?text=BUKALAPAK"
+  },
+  {
+    "id": 5,
+    "nama": "TIKET.COM",
+    "logo": "https://placehold.co/200x80/0058a8/ffffff?text=TIKET"
+  },
+  {
+    "id": 6,
+    "nama": "RUANGGURU",
+    "logo": "https://placehold.co/200x80/3cb4e5/ffffff?text=RUANGGURU"
+  },
+  {
+    "id": 7,
+    "nama": "BLIBLI",
+    "logo": "https://placehold.co/200x80/0095da/ffffff?text=BLIBLI"
+  }
+]

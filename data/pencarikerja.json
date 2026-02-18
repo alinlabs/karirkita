@@ -1,0 +1,187 @@
+
+[
+  {
+    "id": "t1",
+    "username": "sarahdev",
+    "name": "Sarah Putri",
+    "role": "Frontend Developer",
+    "avatar": "https://placehold.co/200x200/2563eb/ffffff?text=SP",
+    "coverImage": "https://placehold.co/600x200/1e3a8a/ffffff?text=Coding+Setup",
+    "bio": "Frontend Developer yang passionate dengan React ecosystem dan User Experience.",
+    "location": "Surabaya, Indonesia",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js"],
+    "isOpenToWork": true,
+    "socialLinks": {
+      "github": "https://github.com/sarahdev",
+      "linkedin": "https://linkedin.com/in/sarahdev"
+    },
+    "projects": [
+      {
+        "id": "p1",
+        "title": "E-Commerce Dashboard",
+        "description": "Dashboard analitik untuk toko online menggunakan React & Recharts.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Dashboard+Project",
+        "link": "#"
+      },
+      {
+        "id": "p2",
+        "title": "Travel Booking App",
+        "description": "Aplikasi pemesanan tiket pesawat dengan UI modern.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Travel+App",
+        "link": "#"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e1",
+        "position": "Junior Frontend Dev",
+        "company": "Startup A",
+        "startDate": "2022",
+        "endDate": "2023",
+        "description": "Mengembangkan fitur utama website menggunakan Vue.js"
+      }
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "t2",
+    "username": "budidesign",
+    "name": "Budi Santoso",
+    "role": "Product Designer",
+    "avatar": "https://placehold.co/200x200/e11d48/ffffff?text=BS",
+    "coverImage": "https://placehold.co/600x200/881337/ffffff?text=Design+Studio",
+    "bio": "Product Designer dengan 5 tahun pengalaman di industri fintech.",
+    "location": "Jakarta, Indonesia",
+    "skills": ["Figma", "UI Design", "UX Research", "Prototyping"],
+    "isOpenToWork": false,
+    "socialLinks": {
+      "website": "https://budi.design"
+    },
+    "projects": [
+      {
+        "id": "p3",
+        "title": "Fintech Mobile App",
+        "description": "Redesign aplikasi mobile banking untuk bank digital.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Fintech+App",
+        "link": "#"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e2",
+        "position": "Senior UI/UX",
+        "company": "Bank Digital B",
+        "startDate": "2020",
+        "endDate": "Present",
+        "description": "Lead design system dan product design."
+      }
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "t3",
+    "username": "alexcode",
+    "name": "Alex Wijaya",
+    "role": "Fullstack Developer",
+    "avatar": "https://placehold.co/200x200/059669/ffffff?text=AW",
+    "coverImage": "https://placehold.co/600x200/047857/ffffff?text=Server+Room",
+    "bio": "Fullstack Developer berpengalaman dengan stack MERN dan Go.",
+    "location": "Bandung, Indonesia",
+    "skills": ["Node.js", "React", "Go", "PostgreSQL", "Docker"],
+    "isOpenToWork": true,
+    "socialLinks": {
+      "github": "https://github.com/alexcode",
+      "linkedin": "https://linkedin.com/in/alexcode"
+    },
+    "projects": [
+      {
+        "id": "p4",
+        "title": "Inventory System",
+        "description": "Sistem manajemen stok gudang berskala besar.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Inventory+Sys",
+        "link": "#"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e3",
+        "position": "Backend Lead",
+        "company": "Tech Corp",
+        "startDate": "2019",
+        "endDate": "2023",
+        "description": "Mengelola infrastruktur backend untuk 1 juta user."
+      }
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "t4",
+    "username": "dianamarketing",
+    "name": "Diana Sari",
+    "role": "Digital Marketer",
+    "avatar": "https://placehold.co/200x200/d97706/ffffff?text=DS",
+    "coverImage": "https://placehold.co/600x200/b45309/ffffff?text=Analytics+Board",
+    "bio": "Spesialis SEO dan SEM dengan track record meningkatkan traffic 300%.",
+    "location": "Jakarta, Indonesia",
+    "skills": ["SEO", "Google Ads", "Content Strategy", "Analytics"],
+    "isOpenToWork": true,
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/dianamarketing"
+    },
+    "projects": [
+      {
+        "id": "p5",
+        "title": "Campaign Launch",
+        "description": "Peluncuran produk SaaS global.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Marketing+Campaign",
+        "link": "#"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e4",
+        "position": "Marketing Manager",
+        "company": "Agency Z",
+        "startDate": "2021",
+        "endDate": "Present",
+        "description": "Menangani klien korporat."
+      }
+    ],
+    "isPromoted": true
+  },
+  {
+    "id": "t5",
+    "username": "ekodev",
+    "name": "Eko Prasetyo",
+    "role": "Mobile Developer",
+    "avatar": "https://placehold.co/200x200/7c3aed/ffffff?text=EP",
+    "coverImage": "https://placehold.co/600x200/5b21b6/ffffff?text=Mobile+Development",
+    "bio": "Flutter & iOS Developer. Menciptakan aplikasi mobile yang smooth dan performant.",
+    "location": "Yogyakarta, Indonesia",
+    "skills": ["Flutter", "Swift", "Dart", "Firebase"],
+    "isOpenToWork": false,
+    "socialLinks": {
+      "github": "https://github.com/ekodev"
+    },
+    "projects": [
+      {
+        "id": "p6",
+        "title": "Health Tracker App",
+        "description": "Aplikasi pelacak kesehatan harian.",
+        "imageUrl": "https://placehold.co/400x300/e2e8f0/64748b?text=Health+App",
+        "link": "#"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e5",
+        "position": "Mobile Dev",
+        "company": "App Studio",
+        "startDate": "2022",
+        "endDate": "Present",
+        "description": "Lead developer untuk proyek aplikasi kesehatan."
+      }
+    ],
+    "isPromoted": true
+  }
+]
